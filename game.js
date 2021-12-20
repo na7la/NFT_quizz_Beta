@@ -80,7 +80,7 @@ let questions = [
         question: "What does it mean to mint an NFT?",
         choice1: "it's miners who mint NFT's",
         choice2: "Creation and registration of the nft  on the blockchain ",
-        choice3: "Selling an NFT for",
+        choice3: "Selling an NFT",
         choice4: "None of above",
         answer: 2,
     },
@@ -118,10 +118,10 @@ let questions = [
     },
     {
         question: "What's NFT collection?",
-        choice1: "a collection of 10 000 NFT's.",
+        choice1: "A collection of 10 000 NFT's.",
         choice2: "All the NFT bought by one user.",
         choice3: "NFT's that have own storyline, values, goals and ways of communicating.",
-        choice4: "A bunch a différent NFT's.",
+        choice4: "A bunch a different NFT's.",
         answer: 3,
     },
     {
@@ -130,7 +130,7 @@ let questions = [
         choice2: "Outsourced in China.",
         choice3: "algorithmically generated.",
         choice4: "It's impossible to make 10 000 NFT's.",
-        answer: 2,
+        answer: 3,
     },
     {
         question: "What's IPFS protocol?",
@@ -145,7 +145,7 @@ let questions = [
         question: "What's a blockchain?",
         choice1: "A useful tool in a fight.",
         choice2: "A database that is shared across a network of computers.",
-        choice3: " is where to exchange tokens.",
+        choice3: "Is where to exchange tokens.",
         choice4: "A centralized database.",
         answer: 2,
     }
